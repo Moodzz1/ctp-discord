@@ -75,7 +75,7 @@
 - [Isabelinc](https://github.com/Isabelincorp)
 - [WitherCubes](https://github.com/WitherCubes) 
 - [myumichi](https://github.com/myumichi)
-- and everyone else who made the original Discord PC. Enmity, Vendetta and Aliucord port!
+- and everyone else who made the original Discord PC. Enmity, Vendetta, Bunny and Aliucord port!
 &nbsp;
 
 &nbsp;
