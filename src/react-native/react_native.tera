@@ -130,6 +130,8 @@ whiskers:
     "GREEN_830": "#{{ palette.green.hex }}",
     "GREEN_860": "#{{ palette.green.hex }}",
     "GREEN_900": "#{{ palette.green.hex }}",
+    "GUILD_BOOSTING_BLUE": "#{{ palette.blue.hex }}",
+    "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#{{ palette.blue.hex }}",
     "GUILD_BOOSTING_PINK": "#{{ palette.pink.hex }}",
     "GUILD_BOOSTING_PURPLE": "#{{ palette.mauve.hex }}",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#{{ palette.mauve.hex }}",
@@ -217,7 +219,21 @@ whiskers:
       "SettingsIcon": "#{{ palette.text.hex }}",
       "StarOutlineIcon": "#{{ palette.overlay2.hex }}",
       "StarIcon": "#{{ palette.yellow.hex }}",
-      "ReactionIcon": "#{{ palette.text.hex }}"
+      "ReactionIcon": "#{{ palette.text.hex }}”,
+      "XSmallIcon": "#{{ palette.text.hex }}",      
+      "MoreHorizontalIcon": "#{{ palette.text.hex }}",
+      "back-icon": "#{{ palette.text.hex }}",         
+      "UserCheckIcon": "#{{ palette.text.hex }}",
+      "MobilePhoneIcon": "#{{ palette.text.hex }}",
+      "ic_crop": "#{{ palette.text.hex }}",
+      "ic_arrow_back_24px": "#{{ palette.text.hex }}",
+      "ic_undo": "#{{ palette.text.hex }}",
+      "ic_paint_brush": "#{{ palette.text.hex }}",
+      "ic_stamp": "#{{ palette.text.hex }}", 
+      "ic_add_text": "#{{ palette.text.hex }}",
+      "ic_at": "#{{ palette.text.hex }}",
+      "ic_download_24px": "#{{ palette.text.hex }}",
+      "ic_overflow_android": "#{{ palette.text.hex }}" 
     }
   },
     "spec": 2
